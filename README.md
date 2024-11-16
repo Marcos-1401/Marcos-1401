@@ -5,7 +5,7 @@
 
 - 📫 Email **marcos.msoares@sempreceub.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<marcos.msoares@sempreceub.com>
 <p align="left">
 </p>
 
