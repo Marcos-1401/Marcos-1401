@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Marcos M Soares</h1>
-<h3 align="center">Apaixonada em análise dados no mundo digital</h3>
+<h3 align="center">Apaixonado em análise dados no mundo digital</h3>
 
 - 🌱Atualmente estou aprendendo  **Python, C++ e Banco de dados**
 
